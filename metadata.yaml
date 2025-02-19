@@ -1,0 +1,45 @@
+_repo: Kokemukseni-vakoojana_75152
+_version: 0.0.1
+alternative_title: My adventures as a spy. Finnish
+contributor:
+  translator:
+    agent_name: Joutsen, O. A. (Otto Aleksanteri)
+    alias: Joutsen, Otto Aleksanteri
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+    wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+creator:
+  author:
+    agent_name: Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron
+    aliases:
+    - Baden-Powell, Robert
+    - Baden-Powell, R. S. S.
+    - Baden-Powell, Baron Robert Stephenson Smyth
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '2144'
+    url: http://www.gutenberg.org/2009/agents/2144
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell
+description: ''
+gutenberg_issued: '2025-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75152'
+language: fi
+pgterms:marc905: 20241218011249badenpowel
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron, 1857-1941'
+- !lcsh 'Spies -- Great Britain -- Biography'
+- !lcc 'UB'
+- GITenberg
+title: Kokemukseni vakoojana
+url: http://www.gutenberg.org/ebooks/75152
