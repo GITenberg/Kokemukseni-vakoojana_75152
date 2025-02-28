@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '33476'
     url: http://www.gutenberg.org/2009/agents/33476
     wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2144
     wikipedia: https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75152#Kokemukseni-vakoojana
 gutenberg_issued: '2025-01-19'
 gutenberg_type: Text
 identifiers:
